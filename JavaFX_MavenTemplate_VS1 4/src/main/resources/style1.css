@@ -1,0 +1,19 @@
+.root{
+	-fx-font-family: "Comic Sans MS";
+}
+
+.button{
+	-fx-font-size: 14px;
+	-fx-font-weight: bold;
+	-fx-background-color: pink
+}
+
+.vbox{
+	-fx-background-color: purple;
+
+}
+
+.border {
+	-fx-background-color: purple;
+}
+
